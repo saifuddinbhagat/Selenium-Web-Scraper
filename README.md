@@ -1,6 +1,6 @@
 # Selenium-Web-Scraper
 
-To learn web scraping
+To learn web scraping - ssh
 
 This Selenium web scraper was used in the data collection phase of a larger project to analyze writer and reader profiles of Medium Publications.
 
